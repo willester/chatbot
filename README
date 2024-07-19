@@ -1,0 +1,16 @@
+# Stock Chatbot
+# Prerequisites
+-have pnpm installed
+## Setup 
+
+#### Backend (NestJS)
+Open terminal in the root
+1. `cd stock-chatbot-backend`
+2. `pnpm install`
+3. `pnpm run start`
+
+#### Frontend (Next.js)
+Open terminal in the root
+1. `cd stock-chatbot-frontend`
+2. `pnpm install`
+3. `pnpm start`
